@@ -194,4 +194,4 @@ This repository serves as the official landing page for HEOS Remote. The softwar
 **Get the most recent version of HEOS Remote today!**
 
 ---
-**Last updated:** 2026-11-13 14:06:06 UTC
+**Last updated:** 2026-11-13 21:14:10 UTC
